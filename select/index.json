@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ナイター",
+  "base_artist": "FINLANDS",
+  "createdAt": "2026-03-09T08:50:02.499937Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナイター",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/01_ナイター_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナイター",
+      "artist": "FINLANDS",
+      "has_synced": true,
+      "path": "select/02_ナイター_FINLANDS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ナイター",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/03_ナイター_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ナイター - SHUTTLE ver.",
+      "artist": "FINLANDS",
+      "has_synced": true,
+      "path": "select/04_ナイター_-_SHUTTLE_ver._FINLANDS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ナイター (Lounge ver.)",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/05_ナイター_(Lounge_ver.)_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイター",
+      "artist": "FINLANDS",
+      "has_synced": false,
+      "path": "select/pl_01_ナイター_FINLANDS.txt"
+    }
+  ]
+}
